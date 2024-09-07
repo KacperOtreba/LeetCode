@@ -1,0 +1,14 @@
+F:\Leetcode\1945. Sum of Digits of String After Convert\bin\Debug\net8.0\1945. Sum of Digits of String After Convert.exe
+F:\Leetcode\1945. Sum of Digits of String After Convert\bin\Debug\net8.0\1945. Sum of Digits of String After Convert.deps.json
+F:\Leetcode\1945. Sum of Digits of String After Convert\bin\Debug\net8.0\1945. Sum of Digits of String After Convert.runtimeconfig.json
+F:\Leetcode\1945. Sum of Digits of String After Convert\bin\Debug\net8.0\1945. Sum of Digits of String After Convert.dll
+F:\Leetcode\1945. Sum of Digits of String After Convert\bin\Debug\net8.0\1945. Sum of Digits of String After Convert.pdb
+F:\Leetcode\1945. Sum of Digits of String After Convert\obj\Debug\net8.0\1945. Sum of Digits of String After Convert.GeneratedMSBuildEditorConfig.editorconfig
+F:\Leetcode\1945. Sum of Digits of String After Convert\obj\Debug\net8.0\1945. Sum of Digits of String After Convert.AssemblyInfoInputs.cache
+F:\Leetcode\1945. Sum of Digits of String After Convert\obj\Debug\net8.0\1945. Sum of Digits of String After Convert.AssemblyInfo.cs
+F:\Leetcode\1945. Sum of Digits of String After Convert\obj\Debug\net8.0\1945. Sum of Digits of String After Convert.csproj.CoreCompileInputs.cache
+F:\Leetcode\1945. Sum of Digits of String After Convert\obj\Debug\net8.0\1945. Sum of Digits of String After Convert.dll
+F:\Leetcode\1945. Sum of Digits of String After Convert\obj\Debug\net8.0\refint\1945. Sum of Digits of String After Convert.dll
+F:\Leetcode\1945. Sum of Digits of String After Convert\obj\Debug\net8.0\1945. Sum of Digits of String After Convert.pdb
+F:\Leetcode\1945. Sum of Digits of String After Convert\obj\Debug\net8.0\1945. Sum of Digits of String After Convert.genruntimeconfig.cache
+F:\Leetcode\1945. Sum of Digits of String After Convert\obj\Debug\net8.0\ref\1945. Sum of Digits of String After Convert.dll
